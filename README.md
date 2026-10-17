@@ -150,4 +150,4 @@ amtool check-config   /etc/alertmanager/alertmanager.yml
 
 ## Author
 
-Built by **kT** as a hands-on DevOps project. Feedback welcome.
+Built by Https-keshav.
